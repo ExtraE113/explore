@@ -14,6 +14,7 @@ items:
  - BloombergMedia/whatiscode
  - times/cardkit
  - mkiser/WTFJHT
+ - ExtraE113/OpenModelProject
 display_name: Open journalism
 created_by: benbalter
 ---
